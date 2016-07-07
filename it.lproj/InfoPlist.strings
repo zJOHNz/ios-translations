@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Crypto Cloud - Nextcloud
+
+  Created by Marino Faggiana on 30/10/15.
+  Copyright © 2016 TWS. All rights reserved.
+*/
+
+"NSLocationAlwaysUsageDescription"      = "L'uso del GPS è usato per rilevare nuove foto dal rullino, l'uso prolungato del GPS in background può ridurre drasticamente la durata della batteria.";

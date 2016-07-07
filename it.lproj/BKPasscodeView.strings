@@ -1,0 +1,47 @@
+/* 
+  BKPasscodeView.strings
+  Crypto Cloud - Nextcloud
+
+  Created by Marino Faggiana on 25/11/14.
+  Copyright (c) 2016 TWS. All rights reserved.
+*/
+
+"%d Failed Passcode Attempts" = "%d tentativi di inserimento del Passcode falliti";
+"%d Failed Password Attempts" = "%d tentativi di inserimento della Password falliti";
+
+"1 Failed Passcode Attempt" = "1 tentativo di inserimento del Passcode fallito";
+"1 Failed Password Attempt" = "1 tentativo di inserimento della Password fallito";
+
+"Do you want to use Touch ID for authentication?" = "Vuoi utilizzare il Touch ID per l'autenticazione ?";
+
+"Done" = "Fatto";
+
+"Enable Touch ID" = "Abilita il Touch ID";
+
+"Enter a different passcode. Cannot re-use the same passcode." = "Inserisci un passcode differente. Non puoi ri-usare lo stesso.";
+"Enter a different password. Cannot re-use the same password." = "Inserisci una password differente. Non puoi ri-usare la stessa.";
+
+"Enter a passcode" = "Inserisci un passcode";
+"Enter a password" = "Inserisci una password";
+
+"Enter your new passcode" = "Inserisci il nuovo passcode";
+"Enter your new password" = "Inserisci la nuova password";
+
+"Enter your old passcode" = "Inserisci il vecchio passcode";
+"Enter your old password" = "Inserisci la vecchia password";
+
+"Enter your passcode" = "Inserisci il passcode";
+"Enter your password" = "Inserisci la password";
+
+"Invalid Passcode" = "Passcode errato";
+"Invalid Password" = "Password errata";
+
+"Passcodes did not match.\nTry again." = "Passcode errato.\nRiprova.";
+"Password did not match.\nTry again." = "Password errata.\nRiprova.";
+
+"Re-enter your passcode" = "Re-inserisci il passcode";
+"Re-enter your password" = "Re-inserisci la password";
+
+"Try again in %d minutes" = "Riprova tra %d minuti";
+
+"Try again in 1 minute" = "Riprova tra 1 minuto";

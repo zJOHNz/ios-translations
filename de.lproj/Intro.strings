@@ -1,0 +1,139 @@
+/*
+ Intro.strings
+ Crypto Cloud - Nextcloud
+ 
+ Created by Marino Faggiana on 30/10/15.
+ Copyright © 2016 TWS. All rights reserved.
+ */
+
+// Intro
+
+"_intro_01_" = "WILLKOMMEN";
+"_intro_02_" = "Mit _brand_ kann man die gewünschten dateien (Dokumente, Modellen, Bilder, Video, usw.) im eigenen cloud endlich speichern, ohne dass neugierige augen den inhalt sehen können dank dem AES-256 chiffrierverschlüsselung.";
+"_intro_03_" = "CHIFFRIERSCHLÜSSEL";
+"_intro_04_" = "Am _brand_ verwendungsanfang  wird es nachgefragt, den chiffrierschlüssel einzugeben (min. 4 zeichen, max. 64 zeichen). Der chiffrierschlüssel wird nicht länger nachgefragt, darüber hinaus ist es nicht mehr möglich den zu ändern. Deshalb falls der zum erstmal eingegebene schlüssel vergessen wird, ist es nicht mehr möglich den wiederzubekommen und die dateien bleiben unlesbar. Falls _brand_ neu installiert wird oder die dateien von einer anderen vorrichtung zugänglich sein sollen, soll der schlüssel benutzt werden, welchen das erste mal eingegeben wurde.";
+"_intro_05_" = "LOGIN";
+"_intro_06_" = "Danach das Cloud wählen unter denen, die zur verfügung stehen (Dropbox, ownCloud). Die nachgefragten daten für die account erschaffung eingeben.";
+"_intro_06_Nextcloud_" = "Danach die nachgefragten daten für die account erschaffung eingeben.";
+"_intro_07_" = "_brand_";
+"_intro_08_" = "Nun kann man die ganzen im eigenen Cloud gespeicherten dateien visualisieren, umbenennen, verstellen, löschen, zu anderen kompatibeln programmen senden, die auf dem eigenen iPhone gespeichert sind, und mehr noch.";
+"_intro_09_" = "FAVORITEN & LOKALER SPEICHER";
+"_intro_10_" = "Man kann die wichtigen dateien als 'Favoriten' benennen; auf dieser weise sind die dateien auch offline lesbar, weil diese auf dem iPhone kopiert und deshalb immer synchronisiert werden. Im lokalspeicher sollen jedoch die dateien gespeichert sein, die nicht mehr synchronisiert werden. Im lokalspeicher sind die komprimierten dateien ebenfalls ungezippt, welche aus dem Cloud heruntergeladen werden, das auch durch iTunes zugänglich ist.";
+"_intro_11_" = "KRYPTIEREN / DEKRYPTIEREN";
+"_intro_12_" = "Jede datei kann kryptiert oder dekryptiert werden, so wie auch der name der ordnern, welche die dateien enthalten (auf dieser weise wird keine angabe über den inhalt gegeben).";
+"_intro_13_" = "ZUGEBEN";
+"_intro_14_" = "Mit _brand_ kann man auf dem eigenen Cloud jedes dokument sowohl klar als auch im kryptierten format speichern. Alle kryptierte dateien und ordnern werden in orangenfarbe markiert; falls im vorschaumodus jedoch mit einem orangen symbol kennzeichnet.";
+"_intro_15_" = "MODELLEN";
+"_intro_16_" = "Es sind modellen für die eingabe reservierter daten verfügbar (Noten, Kreditkarten, Bankkarten, Bankkonto, Passwort, usw.). Auch die modellen sind im eigenen Cloud in kryptiertmodus gespeichert.";
+"_intro_17_" = "PASSWORD SPERREN";
+"_intro_18_" = "In den einstellungen kann man die 'Password Sperren' aktivieren, um das _brand_  anderen benutzern zu sperren, welche das gleiche handy benutzen. Die 'Password sperren' kann geändert, desaktiviert, oder auch verwendet werden, um den zugang zu einzigen ordnern zu schützen.";
+"_intro_19_" = "ANFANG";
+"_intro_20_" = "Jetzt sind sie fertig für die verwendung ihres _brand_. Auf \n\n http://cryptocloud.twsweb.it \n\n können sie weitere Infos, neuigkeiten finden und mit uns in verbindung setzen. Besuchen Sie uns!";
+"_intro_20_Nextcloud_" = "Jetzt sind sie fertig für die verwendung ihres _brand_. Auf \n\n https://nextcloud.com \n\n können sie weitere Infos, neuigkeiten finden und mit uns in verbindung setzen. Besuchen Sie uns!";
+
+// Intro END
+
+"_intro_END_01_"    = "_brand_";
+"_intro_END_02_"    = "Jetzt sind Sie fertig für die verwendung von _brand_, folgen Sie uns auf Twitter: @Crypto_Cloud und lassen sie ihr feedback auf AppStore, es ist sehr wichtig für uns.";
+"_intro_END_02_Nextcloud_" = "Jetzt sind Sie fertig für die verwendung von _brand_, folgen Sie uns auf Twitter: @Nextclouders und lassen sie ihr feedback auf AppStore, es ist sehr wichtig für uns.";
+
+// Intro 1.90
+
+"_intro_190_00_"    = "Neu: Synchronisierung für ordnern. \n\n Änderung in 'automatischer Ladung von Kamera' : nun ist es möglich das background service zu wählen (es ist OFF in Default). \n\n Neues Menü 'Hilfe Einstellungen', um unterrichten und hilfen durchzusehen.";
+"_intro_190_01_"    = "SYNCHRONISIERUNG";
+"_intro_190_02_"    = "Nun ist es möglich die synchronisierung nach ordner zu aktivieren. Alle dateien auf dem server werden heruntergeladen, updatet und immer verfügbar sein, die synchronisierung erfolgt jedes mal der ordner updatet wird.";
+"_intro_190_03_"    = "WIE";
+"_intro_190_04_"    = "Überfliegen sie den ordner, der synchronisiert werden soll und wählen sie die option:  synchronisierter ordner halten. (aufpassen: falls der ordner zu viele dateien enthält, wird die operation viel zeit und einen höhen batterieverbrauch für die erste synchronisierung brauchen !).";
+"_intro_190_05_"    = "SYMBOL";
+"_intro_190_06_"    = "Die synchronisierten ordnern sind jetzt mit einem neuen symbol kennzeichnet, damit von den anderen schnell identifiziert werden können.";
+"_intro_190_07_"    = "EINSTELLUNGEN";
+"_intro_190_08_"    = "Eine neue option ist nun auf den einstellungen verfügbar.";
+"_intro_190_09_"    = "ORDNER SYNCHRONISIERUNG";
+"_intro_190_10_"    = "Hier ist es möglich die synchronisierung zu aktivieren nur wenn ein Wi-Fi Netz verfügbar ist; darüber hinaus kann man auch die aufstellung der aktivierten synchronisierungen finden.";
+"_intro_190_11_"    = "SYNCHRONISIERUNG ENTFERNEN";
+"_intro_190_12_"    = "Die synchronisierung kann nicht nur mit dem menu 'sonstiges' direkt auf dem ordner, sondern auch hier entfernt werden. Die entfernung einer synchronisierung einschließt keine löschung der im lokalspeicher bereits heruntergeladen dateien.";
+
+// Intro 1.91
+
+"_intro_191_00_"    = "Neue optionen für das teilen der dateien oder der ordnern.";
+"_intro_191_01_"    = "TEILEN";
+"_intro_191_02_"    = "Nun ist es möglich eine datei oder einen ordner zu teilen und das teilen zu entfernen. Darüber hinaus ist es für die ownCloud accounts möglich, das teilen mit einem Passwort zu schützen oder, wenn gewünscht, mit einem fälligkeitsdatum zu versehen.";
+"_intro_191_03_"    = "WIE";
+"_intro_191_04_"    = "Überfliegen sie die datei oder den ordner zu teilen, wählen sie 'sonstiges' und die option: teilen. (das teilen kann nicht für kryptierte dateien oder ordnern aktiviert werden).";
+"_intro_191_05_"    = "OPTIONEN";
+"_intro_191_06_"    = "Ein fenster erscheint, wo es möglich ist: das teilen Link zu aktivieren / desaktivieren. Drücken sie 'Link senden zu...', um das teilen durch mail zu senden – kopieren - mit anderen programmen zu öffnen, usw. und für OwnCloud es mit einem passwort zu schützen oder mit einem fälligkeitsdatum zu versehen. Es wird immer möglich danach jede option zu aktivieren / desaktivieren oder modifizieren.";
+"_intro_191_07_"    = "SYMBOL";
+"_intro_191_08_"    = "Die geteilten dateien oder ordnern werden nun mit einem neuen symbol links kennzeichnet.";
+
+// Intro 1.94
+
+"_intro_194_00_"    = "Verbindung zu iPhone oder iPad durch iTunes für das teilen der dateien. \n\n Fingerabdruck leser und password mit 6 nummern.";
+"_intro_194_01_"    = "iTunes";
+"_intro_194_02_"    = "Verbinden sie das iPhone oder iPad mit iTunes, App – datei teilen und _brand_ wählen, nun können sie die dateien auf dem eigenen Mac oder PC zugeben oder speichern.";
+"_intro_194_03_"    = "LOKALSPEICHER";
+"_intro_194_04_"    = "Lokalspeicher ist der raum, wo das teilen mit iTunes aktiv ist.";
+"_intro_194_05_"    = "SONSTIGES";
+"_intro_194_06_"    = "Jede datei im lokalspeicher kann zum eigenen cloud gesendet oder mit einer anderen kompatibeln App geöffnet werden.";
+"_intro_194_07_"    = "FINGERABDRUCK";
+"_intro_194_08_"    = "Nun können Sie den fingerabdruck leser benutzen (falls ihre vorrichtung damit versehen ist), um der password einzugeben. Die leichte version hat einen password mit 6 nummern. Geben sie sofort ihren neuen zugangscode ein.";
+
+// Intro 1.96
+
+"_intro_196_00_"    = "Verlängerung für teilen";
+"_intro_196_01_"    = "AKTIVIERUNG";
+"_intro_196_02_"    = "Gehen sie auf bilder auf ihrem iPhone, dann waehlen sie das bild oder das video auf dem cloud zu teilen, drücken sie die taste 'Aktion'";
+"_intro_196_03_"    = "SONSTIGES";
+"_intro_196_04_"    = "Es werden alle programmen erscheinen, damit sie teilen können, falls _brand_ nicht erscheint, wählen sie 'Sonstiges'";
+"_intro_196_05_"    = "AKTIVITÄT";
+"_intro_196_06_"    = "In der aktivitätsaufstellung suchen sie _brand_, dann aktivieren sie es und ende drücken";
+"_intro_196_07_"    = "TEILEN";
+"_intro_196_08_"    = "Nun befindet sich _brand_ unter der apps, die für das teilen benutzt werden können, drücken sie es";
+"_intro_196_09_"    = "ORDNER";
+"_intro_196_10_"    = "Nun sind sie fertig, um das geteilte bild zu speichern, drücken sie ordner unten: wenn sie der destinationsordner ändern möchten";
+"_intro_196_11_"    = "KRYPTIERT ODER NICHT";
+"_intro_196_12_"    = "Der kryptierungssymbol drücken, um ein krypriertes oder nicht kryptiertes speichern zu wählen";
+"_intro_196_13_"    = "SPEICHERN";
+"_intro_196_14_"    = "Am ende drücken sie speichern, um alles zum Cloud zu senden, oder annullieren zu beenden, oder noch scrollen sie auf der datei zu löschen, wenn sie diese nicht zum Cloud senden möchten (diese operation ist nützlich, wenn sie mehrere dateien gewählt haben aber nicht alle senden möchten)";
+"_intro_196_15_"    = "DROPBOX NACHVERBINDEN";
+"_intro_196_16_"    = "Die Entwicklung der verlängerung für das teilen  hat das Dropbox policy modifiziert, deshalb ist es nötig das account einloggen zu wiederholen. Gehen sie sofort auf einstellungen / ändern sie ihre identifizierungsdaten , wählen sie ihr Dropbox account (falls sie mehrere besitzen, sollen sie die operation für alle wiederholen) und drücken sie account modifizieren. Nun sollen sie nur bestätigen.";
+"_intro_196_17_"    = "VERWANDTEN RESSOURCE [NUR OWNCLOUD]";
+"_intro_196_18_"    = "Dieses Symbol zeigt an, dass die Ressource eines anderen Kontos ist, tippen Sie Ihre Berechtigungen zu sehen";
+"_intro_196_19_"    = "CHANGE ERLAUBNISSEN [NUR OWNCLOUD]";
+"_intro_196_20_"    = "In die gemeinsame Nutzung Ihrer Ressourcen können Sie: \n\n1) Tap den Benutzer zu löschen/gruppe \n\n2) Tap die Berechtigungen zu ihm aufgebaut zu ändern";
+"_intro_196_21_"    = "GENEHMIGUNGEN UND INFORMATIONEN [NUR OWNCLOUD]";
+"_intro_196_22_"    = "Hier ist, was die Maske, um die Berechtigungen zu ändern, unter Ihnen einige Informationen sehen";
+
+// Intro 1.97
+
+"_intro_197_00_"    = "Möglichkeit, Dateien in der Vorschau zu löschen \n\n Ordner-Synchronisation im Hintergrund \n\n ownCloud : Verfügbare Dateivorschau";
+"_intro_197_01_"    = "Übersetzen";
+"_intro_197_02_"    = "Probleme mit der Übersetzung in Ihrer Sprache?\n\nKontaktieren Sie uns per E-Mail: _mail_me_";
+
+// Intro 1.99
+
+"_intro_199_00_" = "Schneller Wechsel zwischen Ihren Accounts";
+"_intro_199_01_" = "Schneller Wechsel zwischen Ihren Accounts";
+"_intro_199_02_" = "Now you can quickly switch between your accounts. From home tap the _brand_ logo and choose the account (available when there is no activity)";
+
+// Intro 2.00
+
+"_intro_200_00_" = "_brand_ Control Center : looks and manage quickly the transfers";
+"_intro_200_01_" = "Open _brand_ Control Center";
+"_intro_200_02_" = "Place your finger on the navigation bar of _brand_ (as in figure)";
+"_intro_200_03_" = "Open _brand_ Control Center";
+"_intro_200_04_" = "Slide your finger down onto the screen to reveal _brand_ Control Center";
+"_intro_200_05_" = "Open _brand_ Control Center";
+"_intro_200_06_" = "Continues up to about half the screen or to the bottom, then release your finger";
+"_intro_200_07_" = "Open _brand_ Control Center";
+"_intro_200_08_" = "Here you can see if there are ongoing transfers";
+"_intro_200_09_" = "Close _brand_ Control Center";
+"_intro_200_10_" = "Place your finger in the final part of the _brand_ Control Center and slide your finger up onto the screen to close it";
+
+// Intro 2.10
+
+"_intro_210_00_" = "Copy / Paste files ";
+"_intro_210_01_" = "Copy file (s)";
+"_intro_210_02_" = "Now you can finally copy any file or files, identify the files to be copied and run a longpress touch; if the files are successfully downloaded a menu is visualized as shown in figure";
+"_intro_210_03_" = "Paste file (s) ";
+"_intro_210_04_" = "Now change folder or even account and run a longpress touch for paste file in clear o in encrypted mode";
+

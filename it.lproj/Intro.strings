@@ -1,0 +1,143 @@
+/*
+ Intro.strings
+ Crypto Cloud - Nextcloud
+ 
+ Created by Marino Faggiana on 30/10/15.
+ Copyright © 2016 TWS. All rights reserved.
+ */
+
+// Intro
+
+"_intro_01_" = "BENVENUTO";
+"_intro_02_" = "Con _brand_ puoi finalmente archiviare i dati che desideri (documenti, modelli, foto, video, etc.) nel tuo Cloud senza che occhi indiscreti possano vederne il contenuto, grazie alla cifratura di criptazione AES-256.";
+"_intro_03_" = "CHIAVE DI CRIPTAZIONE";
+"_intro_04_" = "Per cominciare ad usare subito _brand_ ti verrà chiesto di inserire la chiave di criptazione (minimo 4 caratteri, massimo 64 caratteri). Non ti verrà mai più richiesta, nè potrai più cambiarla, per cui se dimentichi la chiave inserita la prima volta non sarà più possibile recuperarla e i tuoi file rimarranno illeggibili. Nel caso dovessi reinstallare _brand_ o accedere ai tuoi dati da un altro dispositivo, usa la chiave che hai inserito la prima volta.";
+"_intro_05_" = "ACCEDI";
+"_intro_06_" = "Successivamente scegli il tuo Cloud tra quelli disponibili (Dropbox, ownCloud) inserendo i dati richiesti per la creazione dell' account.";
+"_intro_06_Nextcloud_" = "Successivamente inserisci i dati richiesti per la creazione dell' account.";
+"_intro_07_" = "_brand_";
+"_intro_08_" = "A questo punto puoi visualizzare tutti i file memorizzati sul tuo Cloud, rinominarli, spostarli, cancellarli, inviarli ad altri programmi compatibili presenti sul tuo iPhone, e tanto altro ancora.";
+"_intro_09_" = "PREFERITI & ARCHIVIO LOCALE";
+"_intro_10_" = "Puoi siglare i file più importanti come 'Preferiti'; potrai in tal modo consultarli anche offline, perchè verranno copiati e rimarranno sempre sincronizzati all'interno del tuo iPhone. Nell 'Archivio locale' inserisci invece i file che non saranno più sincronizzati. Nell 'Archivio locale' verrano anche scompattati i file compressi che scaricherai dal cloud ove potrai accedervi anche via iTunes.";
+"_intro_11_" = "CRIPTA / DECRIPTA";
+"_intro_12_" = "Qualunque file può essere criptato o decriptato, così come può essere criptato il nome stesso delle cartelle che contengono i files (per non dare alcuna indicazione sul loro contenuto).";
+"_intro_13_" = "AGGIUNGI";
+"_intro_14_" = "Da _brand_ puoi caricare sul tuo Cloud qualsiasi tipo di documento sia in chiaro che in formato criptato. Tutti i file e le cartelle criptate saranno distinguibili dal colore arancione; se in modalità anteprima, verranno invece contrassegnati da un simbolino arancione.";
+"_intro_15_" = "MODELLI";
+"_intro_16_" = "Sono disponibili dei 'modelli' per l'inserimento di dati riservati (note, carte di credito, bancomat, conti correnti, password di siti web, etc.). Anche i modelli vengono salvati nel tuo Cloud in modalità criptata.";
+"_intro_17_" = "BLOCCO PASSWORD";
+"_intro_18_" = "Dalle impostazioni puoi attivare il 'Blocco password' per bloccare il tuo _brand_ ad utenti che utilizzano il tuo telefono. Il blocco password può essere cambiato, disabilitato o anche utilizzato per proteggere l'accesso a singole cartelle.";
+"_intro_19_" = "INIZIO";
+"_intro_20_" = "Bene, ora sei pronto per iniziare ad usare il tuo _brand_. Ti ricordo che puoi trovare informazioni, novità, o inviarci comunicazioni dal sito \n\n http://cryptocloud.twsweb.it \n\n Vieni a trovarci!";
+"_intro_20_Nextcloud_" = "Bene, ora sei pronto per iniziare ad usare il tuo _brand_. Ti ricordo che puoi trovare informazioni, novità, o inviarci comunicazioni dal sito \n\n https://nextcloud.com \n\n Vieni a trovarci!";
+
+// Intro END
+
+"_intro_END_01_"    = "_brand_";
+"_intro_END_02_"    = "Bene, ora sei pronto per iniziare a usare _brand_, seguici su Twitter : @Crypto_Cloud e lascia la tua opinione su AppStore, è veramente importante per noi.";
+"_intro_END_02_Nextcloud_" = "Bene, ora sei pronto per iniziare a usare _brand_, seguici su Twitter : @Nextclouders e lascia la tua opinione su AppStore, è veramente importante per noi.";
+
+// Intro 1.90
+
+"_intro_190_00_"    = "Novità : Sincronizzazione per cartelle. \n\n Modifica in 'Caricamento automatico da fotocamera' : ora è possibile scegliere se usare il servizio in background (di default ora è OFF). \n\n Nuovo menu 'Assistenza in Impostazioni' per rivedere aiuti e lezioni.";
+"_intro_190_01_"    = "SINCRONIZZAZIONE";
+"_intro_190_02_"    = "Ora è possibile abilitare la sicronizzazione per cartella. Tutti i file presenti sul server verranno scaricati e saranno sempre aggiornati e disponibili, la sincronizzazione avverà ogni qual volta verrà aggiornata la cartella.";
+"_intro_190_03_"    = "COME FARE";
+"_intro_190_04_"    = "Sulla cartella da sincronizzare scorri, scegli 'Altro' e seleziona l'opzione : Mantieni sincronizzata la cartella. (Attenzione, se la cartella contiene molti file ci vorrà molto tempo e molto consumo di banda per la prima sincronizzazione !).";
+"_intro_190_05_"    = "SIMBOLO";
+"_intro_190_06_"    = "Le cartelle sincronizzate ora hanno un nuovo simbolo che le identifica dalle altre.";
+"_intro_190_07_"    = "IMPOSTAZIONI";
+"_intro_190_08_"    = "Una nuova opzione ora è presente nelle Impostazioni.";
+"_intro_190_09_"    = "SINCRONIZZAZIONE CARTELLE";
+"_intro_190_10_"    = "Qui è possibile attivare la sincronizzazione 'solo' in presenza di rete Wi-Fi; inoltre vi è la lista delle sincronizzazioni attive.";
+"_intro_190_11_"    = "CANCELLA SINCRONIZZAZIONE";
+"_intro_190_12_"    = "Oltre che da menu 'Altro' direttamente sulla cartella, è possibile qui cancellare una sincronizzazione. La cancellazione di una sincronizzazione non comporta nessuna cancellazione in locale dei file già scaricati.";
+
+// Intro 1.91
+
+"_intro_191_00_"    = "Nuove opzioni per la condivisione di File o Cartelle.";
+"_intro_191_01_"    = "CONDIVISIONE";
+"_intro_191_02_"    = "Ora è possibile condividere un file o una cartella e rimuovere la condivisione, per gli account ownCloud in più è possibile proteggere la condivisione con una password e se voluto assegnare una data di scadenza.";
+"_intro_191_03_"    = "COME FARE";
+"_intro_191_04_"    = "Sulla cartella o file da condividere scorri, scegli 'Altro' e seleziona l'opzione : Condividi. (La condivisione non è attivabile su file o cartelle criptate).";
+"_intro_191_05_"    = "OPZIONI";
+"_intro_191_06_"    = "Apparirà una maschera ove è possibile : attivare/disattivare il link della condivisione, premi 'Invia link a ...' per inviare la condivisione via posta - copiarla - aprirla con altri programmi etc., e per OwnCloud proteggerla da password o assegnarle una data di scadenza. E' sempre possibile successivamente attivare/disattivare o modificare qualunque opzione.";
+"_intro_191_07_"    = "SIMBOLO";
+"_intro_191_08_"    = "I file o le cartelle condivise ora presentano un nuovo simbolo sull' estrema destra.";
+
+// Intro 1.94
+
+"_intro_194_00_"    = "Connessione al tuo iPhone o iPad attraverso iTunes per la condivisione file. \n\n Lettore di impronte digitali e password a 6 numeri.";
+"_intro_194_01_"    = "iTunes";
+"_intro_194_02_"    = "Connetti il tuo iPhone o iPad ad iTunes, seleziona App - Condivisione file e _brand_ , puoi ora Aggiungere o Salvare i file sul tuo Mac o Pc.";
+"_intro_194_03_"    = "ARCHIVIO LOCALE";
+"_intro_194_04_"    = "E' l'Archivio locale l'area dove è attiva la condivisione con iTunes.";
+"_intro_194_05_"    = "ALTRO";
+"_intro_194_06_"    = "Qualunque file presente nell'Archivio locale può essere inviato sul tuo Cloud o aperto con altra App compatibili.";
+"_intro_194_07_"    = "IMPRONTE DIGITALI ";
+"_intro_194_08_"    = "Ora puoi usare il lettore di impronte digitali (se il tuo dispositivo lo possiede) per immettere la password, password che nella versione semplice è ora passato a 6 numeri, vai subito ad inserire il nuovo codice.";
+
+// Intro 1.96
+
+"_intro_196_00_"    = "Estensione per le condivisioni";
+"_intro_196_01_"    = "ATTIVAZIONE";
+"_intro_196_02_"    = "Sul tuo iPhone vai in Foto, scegli l'immagine o il video da condividere sul cloud, tocca il pulsante 'Azione'";
+"_intro_196_03_"    = "ALTRO";
+"_intro_196_04_"    = "Compariranno così tutti i programmi con cui puoi condividere, se non compare _brand_ seleziona 'Altro'";
+"_intro_196_05_"    = "ATTIVITA'";
+"_intro_196_06_"    = "Tra la lista delle attività cerca _brand_, attivalo e tocca Fine";
+"_intro_196_07_"    = "CONDIVIDI";
+"_intro_196_08_"    = "Ora _brand_ è presente tra le App che puoi usare per la condivisione, toccalo";
+"_intro_196_09_"    = "CARTELLA";
+"_intro_196_10_"    = "Ora sei pronto per Salvare l'immagine condivisa, in basso tocca Cartella: se vuoi cambiare cartella di destinazione";
+"_intro_196_11_"    = "CRIPTATO O NO";
+"_intro_196_12_"    = "Tocca il simbolo di criptazione per passare da un salvataggio criptato o no";
+"_intro_196_13_"    = "SALVA";
+"_intro_196_14_"    = "Alla fine premi Salva per inviare tutto sul cloud, oppure annulla per uscire, oppure scorri sopra il file che vuoi cancellare perchè non venga inviato su cloud (comodo se hai selezionato più file ma alla fine non li vuoi inviare tutti)";
+"_intro_196_15_"    = "RICONNETTI DROPBOX";
+"_intro_196_16_"    = "Lo sviluppo dell' estensione per le condivisioni ha modificato la policy di dropbox per cui necessità di rieffettuare il login dell'account. Vai subito in Impostazioni / Cambia le tue credenziali, scelti il tuo account Dropbox (se ne hai più di uno fallo per tutti) e tocca Modifica account, ora basterà solo confermare";
+"_intro_196_17_"    = "RISORSA CONNESSA [SOLO OWNCLOUD]";
+"_intro_196_18_"    = "Questo simbolo sta indicare che la risorsa è di un altro account, tap per vedere i tuoi permessi";
+"_intro_196_19_"    = "CAMBIARE PERMESSI [SOLO OWNCLOUD]";
+"_intro_196_20_"    = "Nella condivisone di tue risorse puoi : \n\n1) Tap per cancellare l'utente/gruppo \n\n2) Tap per cambiare i permessi a lui stabiliti";
+"_intro_196_21_"    = "PERMESSI E INFORMAZIONI [SOLO OWNCLOUD]";
+"_intro_196_22_"    = "Ecco come si presenta la maschera per cambiare i permessi, sotto si vedranno alcune informazioni";
+
+// Intro 1.97
+
+"_intro_197_00_"    = "Possibilità di cancellare i file nelle preview \n\n Sincronizzazione cartelle in background \n\n ownCloud : disponibile l'anteprima dei file";
+"_intro_197_01_"    = "Translate";
+"_intro_197_02_"    = "Translation problems with your language?\n\n Help us and write us at _mail_me_";
+
+// Intro 1.99
+
+"_intro_199_00_" = "Passa velocemente tra i tuoi account";
+"_intro_199_01_" = "Passa velocemente tra i tuoi account";
+"_intro_199_02_" = "Ora puoi passare velocemente tra i tuoi account. Dalla home tap sul logo di _brand_ e scegli l'account (disponibile quando non c'è attività)";
+
+// Intro 2.00
+
+"_intro_200_00_" = "_brand_ Centro di Controllo : guarda e gestisci velocemente i trasferimenti";
+"_intro_200_01_" = "Apri il _brand_ Centro di Controllo";
+"_intro_200_02_" = "Mettere il dito sulla barra di navigazione di _brand_ (come in figura)";
+"_intro_200_03_" = "Apri il _brand_ Centro di Controllo";
+"_intro_200_04_" = "Far scorrere il dito verso il basso sullo schermo per rivelare il _brand_ Centro di Controllo";
+"_intro_200_05_" = "Apri il _brand_ Centro di Controllo";
+"_intro_200_06_" = "Continua fino a circa la metà dello schermo o verso la fine, quindi rilasciare il dito";
+"_intro_200_07_" = "Apri il _brand_ Centro di Controllo";
+"_intro_200_08_" = "Qui si può vedere se ci sono i trasferimenti in corso";
+"_intro_200_09_" = "Chiudi il _brand_ Centro di Controllo";
+"_intro_200_10_" = "Posizionare il dito nella parte finale del _brand_ Centro di Controllo e fai scorrere il dito verso l'alto sullo schermo per chiuderlo";
+
+// Intro 2.10
+
+"_intro_210_00_" = "Copia / Incolla File ";
+"_intro_210_01_" = "Copia file";
+"_intro_210_02_" = "Ora puoi finalmente copiare qualunque file; identifica i o il file da copiare ed esegui una lunga pressione; se il file è correttamente scaricato e presente in memoria comparirà un menu come in figura";
+"_intro_210_03_" = "Incolla file";
+"_intro_210_04_" = "Ora cambia cartella o addirittura account, una lunga pressione sullo schermo e un menu ti permetterà di incollare il file in chiaro o criptato";
+
+
+
+
+

@@ -1,0 +1,464 @@
+/*
+ Localizable.strings
+ Crypto Cloud - Nextcloud
+ 
+ Created by Marino Faggiana on 30/10/15.
+ Copyright © 2016 TWS. All rights reserved.
+ */
+
+// General
+
+"_help_dev_switch_prof_"    = "Helfen Sie uns bei der Entwicklung. Upgraden Sie auf die Professional-Version.";
+"_cancel_"                  = "Abbrechen";
+"_upload_file_"             = "Datei hochladen";
+"_upload_encrypted_file_"   = "Verschlüsselte Datei hochladen";
+"_loading_"                 = "Lade";
+"_loading_num_"             = "Lade Datei %i";
+"_loading_camera_upload_"   = "Automatischer Upload";
+"_uploading_"               = "Hochladen";
+"_synchronization_"         = "Synchronisierung";
+"_delete_"                  = "Löschen";
+"_delete_file_n_"           = "Lösche Dateien (%i von %i)";
+"_rename_"                  = "Umbenennen";
+"_move_"                    = "Verschieben";
+"_move_file_n_"             = "Verschiebe Dateien (%i von %i)";
+"_create_folder_"           = "Neuen Ordner erstellen";
+"_creating_sharing_"        = "Freigabe erstellen";
+"_updating_sharing_"        = "Freigabe aktualisieren";
+"_removing_sharing_"        = "Freigabe entfernen";
+"_add_"                     = "Hinzufügen";
+"_login_"                   = "Anmelden";
+"_save_"                    = "Speichern";
+"_save_encrypted_"          = "Verschlüsselt Datei speichern";
+"_unavailable_switch_prof_" = "Funktion nicht verfügbar. Helfen Sie uns bei der Entwicklung und upgraden Sie auf die Professional-Version von _brand_.";
+"_warning_"                 = "Warnung";
+"_error_"                   = "Fehler";
+"_no_"                      = "Nein";
+"_yes_"                     = "Ja";
+"_select_"                  = "Mehrere Dateien auswählen";
+"_crypto_cloud_upload_"     = "_brand_ - Datei hochladen";
+"_home_"                    = "Datei";
+"_file_to_upload_"          = "Datei zum Hochladen";
+"_destination_"             = "Ziel";
+"_ok_"                      = "OK";
+"_beta_version_"            = "Beta Version";
+"_function_in_testing_"     = "Diese Funktion ist zur Zeit noch in Entwicklung. Bei Problemen bitte Informationen an uns übermitteln.";
+"_done_"                    = "Fertig";
+"_passcode_too_short_"      = "Passcode ist zu kurz, mindestens 4 Zeichen";
+"_selected_"                = "Ausgewählt";
+"_scan_fingerprint_"        = "Bitte authentifizieren Sie sich mit Ihrem Fingerabdruck, oder brechen Sie ab und geben Ihren Passcode ein.";
+"_no_active_account_"       = "Kein Account gefunden";
+"_info_"                    = "Info";
+"_save_exit_"               = "Wollen Sie wirklich ohne Speichern beenden?";
+"_video_"                   = "video";
+
+// App
+
+"_synchronization_header_"  = "Synchronisierung kryptiertes header im lauf ...";
+"_network_available_"       = "Netzwerk verfügbar";
+"_network_not_available_"   = "Netzwerk nicht verfügbar";
+"_comm_error_dropbox_"      = "Kommunikationsfehler mit Dropbox";
+"_comm_error_dropbox_txt_"  = "Gehen Sie auf Einstellungen / ändern Sie Ihre Identifizierungsdaten, wählen Sie Ihr Dropbox Account und drücken Sie Account bearbeiten. Danach einfach bestätigen.";
+
+// Networking
+
+"_file_too_big_"            = "Datei zu groß um verschlüsseln/entschlüsseln zu können";
+"_file_too_big_max_100_"    = "Die Datei ist zu groß (max. 100 kb.)";
+"_...loading..._"           = ".. Lade ..";
+"_download_plist_"          = " ";
+"_no_reuploadfile_"         = "Die Datei wurde nicht gefunden. Reupload nicht möglich. Bitte löschen Sie die Datei, die hochgeladen wurde.";
+"_file_already_exists_"     = "Vorgang konnte nicht ausgeführt werden, da die Zieldatei bereits exisitert.";
+"_read_file_error_"         = "Fehler beim Lesen der Datei";
+
+// Settings
+
+"_acknowledgements_"        = "Danksagungen & Hinweise von Drittanbietern";
+"_settings_"                = "Einstellungen";
+"_passcode_"                = "Passwort";
+"_lock_active_"             = "Zugangscode anfordern : aktiv";
+"_lock_not_active_"         = "Zugangscode: nicht aktiv";
+"_lock_protection_folder_"  = "Zugangscode für geschützte Ordner";
+"_url_"                     = "Server URL";
+"_username_"                = "Benutzer";
+"_change_credentials_"      = "Zugangsdaten ändern";
+"_wifi_only_"               = "Nur Wi-Fi verwenden";
+"_uploading_from_camera_"   = "Automatische Galeriesynchronisierung";
+"_app_version_"             = "App Version";
+"_app_in_use_"              = "App Typ";
+"_switch_professional_"     = "Upgrade zur Professional-Version";
+"_contact_by_email_"        = "Kontakt per E-Mail";
+"_clear_cache_"             = "Cache bereinigen (%@ belegt)";
+"_exit_"                    = "Von _brand_ abmelden";
+"_funct_not_enabled_"       = "Funktion nicht aktiviert";
+"_passcode_activate_"       = "Passwort-Sperre aktivieren";
+"_disabling_passcode_"      = "Deaktivieren der Passwort-Sperre";
+"_want_exit_"               = "Achtung! _brand_ wird zurückgesetzt. Fortfahren? (Ihre Cloud bleibt unangetastet)";
+"_proceed_"                 = "Fortfahren";
+"_delete_cache_"            = "Cache bereinigen";
+"_want_delete_cache_"       = "Möchten Sie den Cache bereinigen (der lokale Speicher und die Favoriten werden ebenfalls gelöscht) ?";
+"_mail_deleted_"            = "E-Mail gelöscht";
+"_mail_saved_"              = "E-Mail gespeichert";
+"_mail_sent_"               = "Die E-Mail wurde übermittelt";
+"_mail_failure_"            = "Fehler beim Senden der E-Mail: %@";
+"_information_req_"         = "Nachfrage info";
+"_credentials_"             = "Zugangsdaten";
+"_manage_account_"          = "Account verwalten";
+"_modify_account_"          = "Account bearbeiten";
+"_add_owncloud_"            = "ownCloud Account hinzufügen";
+"_add_dropbox_"             = "Dropbox Account hinzufügen";
+"_add_nextcloud_"           = "Nextcloud Account hinzufügen";
+"_delete_account_"          = "Account entfernen";
+"_want_delete_"             = "Möchten Sie den Account wirklich entfernen ?";
+"_no_delete_"               = "Nein, nicht entfernen";
+"_yes_delete_"              = "Ja, entfernen";
+"_remove_cache_"            = "Bitte warten - Cache wird gelöscht...";
+"_optimizations_"           = "Optimieren";
+"_synchronizations_"        = "Ordner synchronisierung";
+"_version_server_"          = "Server Version";
+"_check_key_aes_256_"       = "kontrollieren passcode taste verschlüsselung";
+"_encryptpass_by_email_"    = "Senden passcode taste verschlüsselung per email";
+"_title_mail_encryptpass_"  = "Passcode Taste Verschlüsselung _brand_";
+"_text1_mail_encryptpass_"  = "Ihr passcode taste verschlüsselung ist";
+"_text2_mail_encryptpass_"  = "Bitte bewahren Sie den in Sicherheit und schützen Sie ihn vor der Öffentlichkeit.";
+"_help_"                    = "Hilfe";
+"_lock_protection_simply_"  = "Einfacher Passwortschutz";
+"_change_simply_passcode_"  = "Passworttyp ändern";
+"_account_max_1_"           = "Maximal 1 Konto";
+
+// Manage Camera Upload
+
+"_upload_camera_"           = "Kamera Upload";
+"_upload_camera_background_"= "Im Hintergrund hochladen";
+"_upload_foto_camera_"      = "Fotos aus Galerie hochladen";
+"_upload_encry_camup_"      = "Kryptierte ladung";
+"_upload_video_camera_"     = "Aufgenommene VIdeos hochladen";
+"_upload_automatic_photos_" = "Automatischer Upload der aufgenommenen Fotos";
+"_upload_automatic_videos_" = "Automatischer Upload der aufgenommenen Videos";
+"_photo_folder_photocamera_"= "Die Fotos werden automatisch im Foto Ordner in Ihrer Cloud hinterlegt";
+"_upload_automatic_videos_footer_" = "Auf Grund der hohen CPU-Auslastung, können Videos nur hochgeladen werden, wenn _brand_ im Vordergrund ist.";
+"_photo_folder_background_" = "Diese operation braucht die GPS verwendung, um neue bilder vom rollfilm jeder bedeutenden Änderung der position aufzunehmen";
+"_cameraupload_background_title_" = "Einschränkungen";
+"_cameraupload_background_msg_"   = "Auf Grund der Einschränkungen in iOS ist es derzeit nicht möglich, den Prozess im Hintergrund auszuführen, wenn GPS nicht aktiviert ist. Bei Fehlern wird _brand_ kurz gestartet um zu prüfen ob neue Fotos zur Cloud hochgeladen werden können";
+"_upload_camera_change_location_"   = "Ordner wechseln";
+"_upload_camera_location_now_"      = "Ordner";
+"_upload_camera_location_default_"  = "Standard Ordner zurücksetzen";
+"_upload_camera_change_location_footer_" = "Change Photos folder where he will also run the 'Automatic upload from camera' (if the option is enabled)";
+"_camera_upload_not_select_home_"   = "Ordner wählen";
+"_upload_camera_save_album_"        = "Bilder/Videos in Galerie kopieren";
+"_upload_camera_save_album_footer_" = "Nach dem Versenden eines Fotos/eines Videos, wird automatisch eine Kopie in der Galerie erstellt: _brand_ benötigt keinen weiteren Speicherplatz";
+
+// Manage Photos
+
+"_change_folder_photos_"    = "Foto Ordner wechseln";
+
+// Manage Help
+
+"_help_tutorial_"           = "Einführung";
+"_help_intro_"              = "_brand_ Einführung";
+"_help_synchronizations_"   = "Synchronisierte Ordner";
+"_help_share_"              = "Datei oder Ordner freigeben";
+"_help_itunes_share_"       = "iTunes datei und fingerabdruck leser teilen";
+"_help_share_ext_"          = "Verlängerung für teilen & Vorrechte";
+"_help_copy_paste_"         = "Copy Paste Files";
+"_help_control_center_"     = "Schaltzentrale";
+"_help_switch_user_"        = "Schneller Wechsel zwischen Deinen Accounts.";
+
+// Manage Optimizations
+
+"_optimized_photos_"        = "Bilder auflösung optimieren";
+"_upload_del_photos_"       = "Datei entfernen nach dem Upload";
+"_optimized_photos_how_"    = "Falls Ihr iPhone nurnoch wenig Speicherplatz besitzt, werden hochauflösende Bilder, unabhängig davon ob sie hoch- oder runtergeladen wurden, automatisch mit der optimierten Version ersetzt. Die hochauflösende Datei werden in der Cloud hinterlegt.";
+"_upload_del_photos_how_"   = "Nach der ladung auf dem cloud, werden die in _brand_ gespeicherten dateien gelöscht. Nichts wird im rollfilm geändert. Um die dateien wieder zu sehen, ist es ausreichend die normal herunterzuladen.";
+
+// Manage Synchronizations
+
+"_sync_wifi_how_"           = "Dateien werden erst synchronisiert, wenn Sie mit dem WLan verbunden sind.";
+"_sync_active_"             = "Aktive Synchronisation in Ordnern";
+"_sync_active_footer_"      = "Sie können aktive Synchronisationen abbrechen, indem Sie zur Seite wischen.";
+
+// Login
+
+"_connect_server_anyway_"       = "Möchten Sie trotzdem eine Verbindung mit dem Server herstellen?";
+"_connection_error_"            = "Verbindungsfehler";
+"_add_your_owncloud_"           = "OwnCloud Account hinzufügen";
+"_add_your_dropbox_"            = "Dropbox Account hinzufügen";
+"_add_your_nextcloud_"          = "Nextcloud Account hinzufügen";
+"_key_aes_256_"                 = "Passcode taste verschlüsselung";
+
+"_security_init_required_hint_" = "Passcode taste verschlüsselung Hinweis (Empfohlen)";
+"_hint_"                        = "Hinweis";
+"_security_init_required_mail_" = "Geben Sie einfach Ihre email adresse zu senden und den passcode taste verschlüsselung halten (empfohlen). Wenn Sie nicht, dass jetzt können oder wollen nicht Foul später zu tun, in den Einstellungen können Sie den Befehl finden.";
+"_email_"                       = "E-Mail";
+"_title_form_security_init_"    = "Sicherheitseinstellungen";
+
+// Favorite
+
+"_favorites_"                   = "Favoriten";
+"_local_storage_"               = "Lokaler Speicher";
+"_no_files_uploaded_"           = "Keine Dateien hochgeladen";
+"_tutorial_favorite_view_"      = "Kopieren Sie die Dateien, auf die Sie offline zugreifen möchten, in diesen Bereich um eine Synchronisierung mit der Cloud zu starten.";
+"_tutorial_local_view_"         = "Die dateien hier kopieren, die offline lesbar aber nicht weiter mit ihrem Cloud synchronisiert werden. \n\n Hier finden sie auch die von ihrem cloud unzipped dateien. \n\n Zu iTunes verbinden, um die dateien hier zu teilen.";
+"_more_"                        = "Sonstiges";
+
+// Camera Upload
+
+"_pull_down_"                               = "Nach unten ziehen zum Aktualisieren";
+"_no_photo_load_"                           = "Kein Bild oder Video";
+"_tutorial_camera_upload_view_"             = "Keine Fotos oder Videos geladen, um den automatischen Upload von Fotos und Videos von der Kamera zu aktivieren, gehen Sie bitte zu den Einstellungen und aktivieren dort \"Automatischen Upload von der Kamera\"";
+"_no_date_"                                 = "Kein Datum";
+"_today_"                                   = "Heute";
+"_time_"                                    = "Uhrzeit : %@\n\n%@";
+"_location_not_enabled_"                    = "GPS nicht aktiviert";
+"_location_not_enabled_msg_"                = "Bitte aktivieren Sie GPS in den Einstellungen um aufgenommene Kamera hochzuladen";
+"_access_photo_not_enabled_"                = "Fotozugriff nicht aktiviert";
+"_access_photo_not_enabled_msg_"            = "Bitte gehen sie in die einstellungen und aktivieren sie den zugang zur bilder, um deren Ladung zu ermöglichen.";
+"_access_photo_location_not_enabled_"       = "Der zugang zur lokalisierungsservice und bilder ist nicht aktiviert";
+"_access_photo_location_not_enabled_msg_"   = "Bitte gehen sie in die einstellungen und aktivieren sie den zugang zur bilder und Lokalisisrungsservice, um die ladung zu ermöglichen.";
+"_processing_send_camera_upload_"           = "Kamera zusendung ..";
+"_select_only_localfile_"                   = "Not downloaded file";
+"_tutorial_photo_view_"                     = "Keine Fotos oder Videos geladen";
+
+// Template
+
+"_title_"                       = "Titel";
+"_web_account_data_"            = "Web account daten";
+"_url:_"                        = "Url :";
+"_login:_"                      = "Login :";
+"_password:_"                   = "Passwort :";
+"_notes_"                       = "Markmal";
+"_web_account_"                 = "Account web";
+"_enter_title_"                 = "Titel zugeben";
+"_add_folder_"                  = "Ordner hinzufügen";
+"_add_photos_videos_"           = "Bilder oder Videos hinzufügen";
+"_add_folder_encryptated_"      = "Ordner mit kryptiertem name zugeben";
+"_add_encrypted_photo_video_"   = "Kryptiertes bild oder video zugeben";
+"_add_credit_card_"             = "Kreditkarte modell zugeben";
+"_add_atm_"                     = "Bankkarte modell zugeben";
+"_add_bank_account_"            = "Bankkonto modell zugeben";
+"_add_web_account_"             = "Web account zugeben";
+"_add_notes_"                   = "Notiz hinzufügen";
+"_add_driving_license_"         = "Führerschein hinzufügen";
+"_add_id_card_"                 = "Ausweis modell zugeben";
+"_add_passport_"                = "Passport modell zugeben";
+"_add_atm_card_"                = "Bankdaten :";
+"_bank_name:_"                  = "Bank :";
+"_code:_"                       = "Code :";
+"_security_code:_"              = "Sicherheitscode :";
+"_pin:_"                        = "PIN :";
+"_atm_card_"                    = "Bankkarte";
+"_credi_card_data_"             = "Kreditkarteninformationen";
+"_name_surname:_"               = "Name Vorname :";
+"_expiry_date:_"                = "Ablaufdatum :";
+"_credit_card_"                 = "Kreditkarte";
+"_id_card_"                     = "Ausweis";
+"_number:_"                     = "Nummer :";
+"_place_of_birth:_"             = "Geburtsort :";
+"_date_of_birth:_"              = "Geburtsdatum :";
+"_date_of_issue:_"              = "Ausstellungsdatum :";
+"_date_of_expiry:_"             = "Ablaufdatum :";
+"_bank_account_data_"           = "Bankkonto Informationen";
+"_account_n:_"                  = "Kontonummer :";
+"_iban:_"                       = "IBAN :";
+"_swift:_"                      = "SWIFT :";
+"_agency:_"                     = "Niederlassung :";
+"_bank_account_"                = "Bankkonto";
+"_passport_"                    = "Reisepass";
+"_driving_license_"             = "Führerschein";
+"_license_number:_"             = "Führerschein Nummer :";
+"_vehicle_types:_"              = "Fahrzeugtyp :";
+
+// Utility
+
+"_never_"                       = "nie";
+"_less_a_minute_"               = "vor weniger als einer Minute";
+"_minutes_ago_"                 = "vor %d Minuten";
+"_hours_ago_"                   = "vor %d Stunden";
+"_days_ago_"                    = "vor %d Tagen";
+"_over_30_days_"                = "mehr als 30 Tage";
+"_connection_internet_offline_" = "Es besteht keine Verbindung zum Internet oder es ist nur auf WLan beschränkt";
+"_internal_error_task_"         = "Interner Fehler";
+"_error_task_not_found_"        = "Übertragung vom System abgebrochen";
+"_insert_password_"             = "Passwort eingeben";
+"_update_in_progress_"          = "Upgrade, bitte warten...";
+"_forbidden_characters_"        = "Die Datei/der Ordner enthält unzulässige Zeichen";
+"_mail_not_can_send_mail_"      = "Keine konfigurierten Konten vorhanden oder falsche E-Mail-Adresse verwendet";
+
+// File
+
+"_photo_camera_"                = "Fotos";
+"_limited_lite_version_"        = "Diese Funktion ist in der Lite-Version nicht verfügbar";
+"_unzip_in_progress_"           = "Unzip im lauf auf lokalordner ...";
+"_file_unpacked_"               = "Die Datei wurde erfolgreich entpackt";
+"_file_saved_local_"            = "Die Datei wurde erfolgreich gespeichert";
+"_file_not_present_"            = "Fehler - Datei nicht vorhanden. Bitte aktualisieren.";
+"_order_by_date_"               = "Nach Datum sortieren";
+"_current_order_name_"          = "(aktuelle Sortierung nach Namen)";
+"_order_by_name_"               = "Nach Namen sortieren";
+"_current_order_date_"          = "(aktuelle Sortierung nach Datum)";
+"_sort_descending_"             = "Absteigend sortieren";
+"_current_sort_ascending_"      = "(aktuelle Sortierung: aufsteigend)";
+"_sort_ascending_"              = "Aufsteigend sortieren";
+"_current_sort_descending_"     = "(Aktuelle Sortierung: absteigend)";
+"_delete_selected_files_"       = " Dateien löschen";
+"_move_selected_files_"         = "Dateien verschieben";
+"_encrypted_selected_files_"    = "Dateien verschlüsseln";
+"_decrypted_selected_files_"    = "Dateien dekryptieren";
+"_download_selected_files_"     = "Dateien herunterladen";
+"_error_passcode_"              = "Fehler passcode taste verschlüsselung";
+"_error_operation_canc_"        = "Fehler, Aktion abgebrochen.";
+"_only_lock_passcode_"          = "Nur in Verbindung mit Passwort sperren aktiviert. Aktivieren der Einstellungen.";
+"_passcode_protection_"         = "Passwortschutz";
+"_encrypt_"                     = "Verschlüsseln";
+"_decrypt_"                     = "Entschlüsseln";
+"_remove_favorites_"            = "Aus Favoriten entfernen";
+"_add_favorites_"               = "Zu Favoriten hinzufügen";
+"_remove_passcode_"             = "Passwortschutz entfernen";
+"_protect_passcode_"            = "Schutz vor Password";
+"_share_"                       = "Freigeben";
+"_reload_"                      = "Aktualisieren";
+"_open_in_"                     = "Öffnen mit...";
+"_add_local_"                   = "Auf Handy speichern";
+"_comm_erro_pull_down_"         = "Achtung - es ist ein Problem mit der Verbindung zum Server aufgetreten. Runterziehen zum aktualisieren.";
+"_file_not_downloaded_"         = "Datei nicht heruntergeladen";
+"_file_not_uploaded_"           = "Datei nicht hochgeladen";
+"_folders_"                     = "Ordner";
+"_folder_"                      = "Ordner";
+"_files_"                       = "Dateien";
+"_file_"                        = "Datei";
+"_folder_blocked_"              = "Ordner gesperrt";
+"_downloading_progress_"        = "Warte, erstelle Dateiliste zum Herunterladen.";
+"_encrypted_progress_"          = "Verschlüsselt...";
+"_decrypted_progress_"          = "Entschlüsseln ...";
+"_no_file_pull_down_"           = "Keine Dateien gefunden. Bitte laden Sie eine Datei hoch oder ziehen Sie runter zum Aktualisieren.";
+"_browse_images_"               = "Bilder durchsuchen";
+"_synchronized_folder_"         = "Ordner permanent synchronisieren";
+"_remove_synchronized_folder_"  = "Synchronisierung entfernen";
+"_synchronized_confirm_"        = "Beim Aktivieren dieser Funktion werden alle Dateien in diesem Ordner mit dem Server synchronisiert, trotzdem fortfahren?";
+"_synchronized_lite_confirm_"   = "Mit der aktivierung der synchronisation, werden alle dateien im ordner mit dem server synchronisiert jedes mal dieser nachgeladen ist [automatisch im Hintergrund für die Professional Version], weiter gehen?";
+"_same_device_different_passcode_"  = "Die datei wurde mit der gleichen vorrichtung aber mit verschiedenem zugangscode kryptiert. Achtung, wenn das alte passwort eingegeben ist, alle mit dem neuen passwort geschützte dateien werden unlesbar.";
+"_file_encrypted_another_device_"   = "Die Datei wurde von einem anderen Gerät verschlüsselt [%@]. Bitte geben Sie den Passcode ein um auf den Inhalt zugreifen zu können.";
+"_file_not_found_reload_"       = "Die Datei wurde nicht gefunden, runterziehen zum Aktualisieren";
+"_title_section_download_"      = "DOWNLOAD";
+"_title_section_upload_"        = "UPLOAD";
+"_group_alphabetic_yes_"        = "✓ Alphabetische Sortierung";
+"_group_alphabetic_no_"         = "Alphabetische Sortierung";
+"_group_typefile_yes_"          = "✓ Nach Dateityp sortieren";
+"_group_typefile_no_"           = "Nach Dateityp sortieren";
+"_group_date_yes_"              = "✓ Nach Datum sortieren";
+"_group_date_no_"               = "Nach Datum sortieren";
+"_element_"                     = "Element";
+"_elements_"                    = "Elemente";
+"_tite_footer_upload_wwan_"     = "  WLan benötigt, %lu Bilder in Upload-Warteschlange";
+"_limited_dimension_"           = "Maximale Größe erreicht";
+"_same_device_different_passcode_hint_" = "Die datei wurde mit der gleichen vorrichtung aber mit passcode taste verschlüsselung. Achtung, wenn das alte passwort eingegeben ist, alle mit dem neuen passwort geschützte dateien werden unlesbar. \n\n Hinweis : %@";
+"_file_encrypted_another_device_hint_" = "Die datei wurde mit einem anderen vorrichtung kryptiert [%@], geben Sie den passcode taste verschlüsselung den Inhalt zu lesen. \n\n Hinweis : %@";
+"_save_selected_files_"         = "Bilder und Videos in Galerie speichern";
+"_file_not_saved_cameraroll_"   = "Fehler beim Speichern des Bildes";
+"_file_saved_cameraroll_"       = "Foto wurde gespeichert";
+
+"audio"                         = "AUDIO";
+"compress"                      = "KOMPRIMIERT";
+"directory"                     = "ORDNER";
+"document"                      = "DOKUMENTE";
+"image"                         = "BILDER";
+"template"                      = "MODELLE";
+"unknow"                        = "UNBEKANNT";
+"video"                         = "VIDEO";
+
+"_Device_Jailbroken_"           = "Achtung, Ihr Gerät ist gejailbreaked. _brand_ ist ggf. nicht vollständig kompatibel.";
+"_no_plist_pull_down_"          = "Verschlüsselte Dateien wurden nicht hochgeladen, runterziehen zum Aktualisieren";
+"_file_del_only_local_"         = "Datei nicht auf Server gefunden";
+
+"_copy_file_"                   = "Datei kopieren";
+"_copy_files_"                  = "Dateien kopieren";
+"_paste_file_"                  = "Datei einfügen";
+"_paste_file_encrypted_"        = "Verschlüsselte Datei einfügen";
+"_paste_files_"                 = "Dateien einfügen";
+"_paste_files_encrypted_"       = "Verschlüsselte Dateien einfügen";
+"_paste_cryptated_"             = "Verschlüsselte Pasten";
+
+// Security
+
+"_reload_folder_"               = "Ordner aktualisieren";
+"_encrypt_error_"               = "Während der Verschlüsselung der Datei \"%@\" sind Fehler aufgetreten. [%@]";
+"_decrypt_error_"               = "Während der Entschlüsselung der Datei \"%@\" ist ein Fehler aufgetreten. [%@]";
+"_encryption_"                  = "Verschlüsseln ...";
+"_decryption_"                  = "Entschlüsseln ...";
+
+// CoreData
+
+"_required_new_database_"       = "Entschuldigen Sie diese Unannehmlichkeit. Für die neue Verbesserung ist eine neue Version der Datenbank notwendig. Bitte loggen Sie sich erneut ein.";
+
+// Files Preview
+
+"_insert_password_pfd_"         = "PDF ist mit einem Passwort gesichert. Bitte Passwort eingeben";
+"_password_pdf_error_"          = "Passwort nicht korrekt";
+"_error_download_photobrowser_" = "Fehler, download des Fotos war nicht möglich";
+
+// Share
+
+"_share_link_"                  = "Link freigeben";
+"_share_link_button_"           = "Link senden an ...";
+"_password_"                    = "Passwort";
+"_share_password_"              = "Link mit Passwort schützen";
+"_share_expirationdate_"        = "Link Ablaufdatum festlegen";
+"_date_"                        = "Datum";
+"_share_title_"                 = "Freigeben";
+"_add_sharee_"                  = "Benutzer oder Gruppen hinzufügen";
+"_add_sharee_footer_"           = "Sie können diese Ressource freigeben indem Sie neue Benutzer/Gruppen hinzufügen. Um die Freigabe zu entfernen, löschen Sie alle Benutzer/Gruppen.";
+"_find_sharee_title_"           = "Suche";
+"_find_sharee_"                 = "Benutzer oder Gruppe suchen  ...";
+"_find_sharee_footer_"          = "Für die suche geben sie einen teil des benutzer oder gruppennamen ein und danach drücken sie 'Senden', wählen sie den benutzer, der zum teilen zugang haben soll und dann drücken sie 'erledigt' zur bestätigen.";
+"_user_is_group_"               = " (gruppe)";
+"_direct_sharee_title_"         = "Freigeben";
+"_direct_sharee_footer_"        = "Wenn Sie bereits den Benutzername kennen, geben Sie diesen ein, danach drücken Sie 'fertig' zum Bestätigen.";
+"_direct_sharee_"               = "Benutzer eingeben ...";
+"_user_sharee_footer_"          = "Tippen Sie hier um die Rechte zu ändern";
+
+// Share Permission
+
+"_share_permission_title_"          = "Rechte";
+"_share_permission_edit_"           = "kann bearbeiten";
+"_share_permission_file_can_write_" = "kann Datei schreiben";
+"_share_permission_create_"         = "kann erstellen";
+"_share_permission_create_file_"    = "kann Dateien erstellen";
+"_share_permission_create_folder_"  = "kann Ordner erstellen";
+"_share_permission_change_"         = "kann ändern";
+"_share_permission_delete_"         = "kann löschen";
+"_share_permission_share_"          = "kann freigeben";
+"_share_permission_rename_"         = "kann umbenennen";
+"_share_permission_move_"           = "kann verschieben";
+"_share_permission_info_"           = "Information zur Freigabe";
+"_share_permission_path_"           = "Datei/Ordner";
+"_share_permission_type_"           = "Art";
+"_share_permission_typeuser_"       = "Benutzer";
+"_share_permission_typegroup_"      = "Gruppe";
+"_share_permission_typepubliclink_" = "Link";
+"_share_permission_typefederated_"  = "Vereinigen";
+"_share_permission_owner_"          = "Eigentümer";
+"_share_permission_date_"           = "Datum";
+"_share_permission_email_"          = "Benachrichtigung per E-Mail";
+
+// ShareInfoCMOC
+
+"_type_resource_connect_you_"       = "Freigegeben für Sie";
+"_type_resource_external_"          = "Externer Speicher";
+
+// Share Ext
+
+"_destiny_folder_"                  = "Ordner : %@";
+
+// List Transfers
+
+"_no_transfer_"                     = "Keine Übertragung";
+
+// -----------------------------------------------------------------------------------------------------------
+
+"Done"                          = "Fertig";
+"Select Photos"                 = "Bilder wählen";
+"photo"                         = "Bild";
+"photos"                        = "Bilder";
+"of"                            = "von";
+
+"%i of %i"                      = "%1$i von %2$i";
+
