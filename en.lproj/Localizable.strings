@@ -29,7 +29,7 @@
 "_add_"                     = "Add";
 "_login_"                   = "Login";
 "_save_"                    = "Save";
-"_save_encrypted_"          = "Save ecrypted";
+"_save_encrypted_"          = "Save encrypted";
 "_unavailable_switch_prof_" = "Unavailable feature, help us in developing, switch to the Professional version of _brand_.";
 "_warning_"                 = "Warning";
 "_error_"                   = "Error";
