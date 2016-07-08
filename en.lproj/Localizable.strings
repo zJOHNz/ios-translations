@@ -281,7 +281,7 @@
 "_insert_password_"             = "insert password";
 "_update_in_progress_"          = "Version upgrade, please wait ...";
 "_forbidden_characters_"        = "The file or folder have forbidden characters";
-"_mail_not_can_send_mail_"      = "No configured accounts or wrong email address";
+"_mail_not_can_send_mail_"      = "No configured account or wrong email address";
 
 // File
 
