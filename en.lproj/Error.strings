@@ -1,13 +1,13 @@
 // ownCloud
 
 "_api_wrong_"                           = "Bad input parameter or not accepted";
-"_bad_username_password_"               = "Bad unsername or password";
+"_bad_username_password_"               = "Bad username or password";
 "_cancelled_by_user"                    = "Transfer canceled";
 "_error_folder_destiny_is_the_same_"    = "It is not possible to move the folder to itself";
 "_error_not_permission_"                = "You don't have permission to complete the operation";
 "_error_path_"                          = "Unable to open this file or folder. Please make sure it exists";
 "_error_proxy_auth_"                    = "Credentials proxy error";
-"_file_upload_not_exitst_"              = "The file that we want upload does not exist";
+"_file_upload_not_exitst_"              = "The file that we want to upload does not exist";
 "_forbidden_characters_from_server_"    = "The name contains at least one invalid character";
 "_not_connected_internet_"              = "Server connection error";
 "_not_possible_connect_to_server_"      = "It is not possible to connect to the server at this time";
