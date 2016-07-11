@@ -1,7 +1,7 @@
 /*
  Localizable.strings
  Crypto Cloud - Nextcloud
- 
+
  Created by Marino Faggiana on 30/10/15.
  Copyright © 2016 TWS. All rights reserved.
  */
@@ -38,8 +38,8 @@
 "_select_"                  = "Select";
 "_crypto_cloud_upload_"     = "_brand_ - Upload";
 "_home_"                    = "File";
-"_file_to_upload_"          = "file to upload";
-"_destination_"             = "destination";
+"_file_to_upload_"          = "File to upload";
+"_destination_"             = "Destination";
 "_ok_"                      = "Ok";
 "_beta_version_"            = "Beta version";
 "_function_in_testing_"     = "Function in testing, please send information to any problems or malfunctions.";
@@ -49,12 +49,12 @@
 "_scan_fingerprint_"        = "Scan fingerprint to authenticate";
 "_no_active_account_"       = "No account found";
 "_info_"                    = "Info";
-"_save_exit_"               = "Do you want to exit without saving ?";
-"_video_"                   = "video";
+"_save_exit_"               = "Do you want to exit without saving?";
+"_video_"                   = "Video";
 
 // App
 
-"_synchronization_header_"  = "Synchronization header encrypted in progress ...";
+"_synchronization_header_"  = "Synchronization of encrypted header in progress ...";
 "_network_available_"       = "Network available";
 "_network_not_available_"   = "Network not available";
 "_comm_error_dropbox_"      = "Comunication error with Dropbox";
@@ -62,7 +62,7 @@
 
 // Networking
 
-"_file_too_big_"            = "File size too big to be encrypt/decrypt";
+"_file_too_big_"            = "File size too big to be encrypted/decrypted";
 "_file_too_big_max_100_"    = "File size too big (max 100 kb.)";
 "_...loading..._"           = ".. loading ..";
 "_download_plist_"          = " ";
@@ -310,10 +310,10 @@
 "_passcode_protection_"         = "Password protection";
 "_encrypt_"                     = "Encrypt";
 "_decrypt_"                     = "Decrypt";
-"_remove_favorites_"            = "Remove from Favorites";
-"_add_favorites_"               = "Add to Favorites";
-"_remove_passcode_"             = "Remove Password protection";
-"_protect_passcode_"            = "Protect from Password";
+"_remove_favorites_"            = "Remove from favorites";
+"_add_favorites_"               = "Add to favorites";
+"_remove_passcode_"             = "Remove password protection";
+"_protect_passcode_"            = "Protect with password";
 "_share_"                       = "Share";
 "_reload_"                      = "Reload";
 "_open_in_"                     = "Open in...";
@@ -325,8 +325,8 @@
 "_folder_"                      = "folder";
 "_files_"                       = "files";
 "_file_"                        = "file";
-"_folder_blocked_"              = "Folder Blocked";
-"_downloading_progress_"        = "Wait, creating list file to download ...";
+"_folder_blocked_"              = "Folder blocked";
+"_downloading_progress_"        = "Initiating download of files ...";
 "_encrypted_progress_"          = "Encrypted ...";
 "_decrypted_progress_"          = "Decrypted ...";
 "_no_file_pull_down_"           = "No files found. Upload a file or pull down to refresh";
@@ -362,7 +362,7 @@
 "document"                      = "DOCUMENTS";
 "image"                         = "IMAGES";
 "template"                      = "TEMPLATES";
-"unknow"                        = "UNKNOW";
+"unknow"                        = "UNKNOWN";
 "video"                         = "VIDEO";
 
 "_Device_Jailbroken_"           = "Warning your device is Jailbroken, the operation of _brand_ does not appear to be entirely compatible !!";
@@ -411,8 +411,8 @@
 "_find_sharee_footer_"          = "Enter part of the name of the user or group to be searched (at least 2 characters) followed by 'Return', select the users that can access the share followed by 'Done' to confirm";
 "_user_is_group_"               = " (group)";
 "_direct_sharee_title_"         = "Share";
-"_direct_sharee_footer_"        = "If you already know the name of the user enter it followed by 'Done' to confirm";
-"_direct_sharee_"               = "Enter the user ...";
+"_direct_sharee_footer_"        = "If you already know the name of the user enter it and press 'Done' to confirm";
+"_direct_sharee_"               = "Enter the username ...";
 "_user_sharee_footer_"          = "Tap for change privileges";
 
 // Share Permission
@@ -461,4 +461,3 @@
 "of"                            = "of";
 
 "%i of %i"                      = "%1$i of %2$i";
-
