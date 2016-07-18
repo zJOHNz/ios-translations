@@ -1,4 +1,4 @@
-/* 
+/*
   InfoPlist.strings
   Crypto Cloud - Nextcloud
 
@@ -6,4 +6,4 @@
   Copyright © 2016 TWS. All rights reserved.
 */
 
-"NSLocationAlwaysUsageDescription"      = "The use of GPS is used to detect new photos from camera roll, continued use of GPS running in the background can dramatically decrease battery life.";
+"NSLocationAlwaysUsageDescription"      = "GPS is required to detect new photos in the camera roll. The usage of GPS running in the background can drastically decrease battery life.";
