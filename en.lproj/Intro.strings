@@ -1,7 +1,7 @@
 /*
  Intro.strings
  Crypto Cloud - Nextcloud
- 
+
  Created by Marino Faggiana on 30/10/15.
  Copyright © 2016 TWS. All rights reserved.
  */
@@ -10,7 +10,7 @@
 
 "_intro_01_" = "WELCOME";
 "_intro_02_" = "Based on the encryption AES-256, _brand_ will enable you to store all your private data (documents, templates, photos, videos, etc…) in your Cloud, thus keeping them safe from possible 'prying eyes'.";
-"_intro_03_" = "KEY ENCRYPTION";
+"_intro_03_" = "ENCRYPTION KEY";
 "_intro_04_" = "In order to immediately start using _brand_ you will be asked to enter a encryption key (minimum 4 characters, maximum 64 characters). The combination will be required just once and it cannot be modified. Should you forget it, you will never be able to retrieve it and your files will remain encrypted. Should you re-install _brand_ or access to your data from another iPhone, use the same combination you entered the first time.";
 "_intro_05_" = "LOGIN";
 "_intro_06_" = "Afterwards, you can choose your favourite Cloud among those available (Dropbox, ownCloud), and create your own account by entering the requested data.";
@@ -90,7 +90,7 @@
 "_intro_196_08_"    = "Now _brand_ is present among the App that you can use for sharing, tap it";
 "_intro_196_09_"    = "FOLDER";
 "_intro_196_10_"    = "Now you're ready to save the shared image, bottom tap folder: if you want to change the destination folder";
-"_intro_196_11_"    = "ENCRYPTED OR NO";
+"_intro_196_11_"    = "ENCRYPTED OR NOT";
 "_intro_196_12_"    = "Tap the symbol to switch saved encrypted or not";
 "_intro_196_13_"    = "SAVE";
 "_intro_196_14_"    = "At the end press Save to send everything to the cloud, or Cancel to exit, or swipe on the file you want to delete because it is not sent cloud (handy if you have selected multiple files but in the end you do not want them to send all)";
@@ -136,8 +136,3 @@
 "_intro_210_02_" = "Now you can finally copy any file or files, identify the files to be copied and run a longpress touch; if the files are successfully downloaded a menu is visualized as shown in figure";
 "_intro_210_03_" = "Paste file (s) ";
 "_intro_210_04_" = "Now change folder or even account and run a longpress touch for paste file in clear o in encrypted mode";
-
-
-
-
-
