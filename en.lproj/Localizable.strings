@@ -113,7 +113,7 @@
 "_check_key_aes_256_"       = "Control encryption key passcode";
 "_encryptpass_by_email_"    = "Send encryption key passcode by mail";
 "_title_mail_encryptpass_"  = "Encryption Key Passcode _brand_";
-"_text1_mail_encryptpass_"  = "Your encryption key passcvode is";
+"_text1_mail_encryptpass_"  = "Your encryption key passcode is";
 "_text2_mail_encryptpass_"  = "store it securely and away from prying eyes.";
 "_help_"                    = "Help";
 "_lock_protection_simply_"  = "Weak password protection";
