@@ -51,7 +51,7 @@
 "_intro_190_09_"    = "SYNCHRONIZATIONS FOLDERS";
 "_intro_190_10_"    = "Here you can activate synchronization 'only' if there is a Wi-Fi network; the list of active synchronizations is specified as well.";
 "_intro_190_11_"    = "DELETE SYNCHRONIZATIONS";
-"_intro_190_12_"    = "In addiction to the menu 'Other' directly available from folder, here you can delete a synchronization. The deletion of a synchronization does not delete files locally.";
+"_intro_190_12_"    = "In addition to the menu 'Other' directly available from folder, here you can delete a synchronization. The deletion of a synchronization does not delete files locally.";
 
 // Intro 1.91
 
@@ -83,7 +83,7 @@
 "_intro_196_01_"    = "ACTIVATION";
 "_intro_196_02_"    = "On your iPhone go to Photo, select the image or video to share on the cloud, tap the 'Action'";
 "_intro_196_03_"    = "MORE";
-"_intro_196_04_"    = "Appear so all programs with which you can share, if not _brand_ appears tap 'more'";
+"_intro_196_04_"    = "All programs with which you can share will appear, if _brand_ doesn't appears tap 'more'";
 "_intro_196_05_"    = "ACTIVITY";
 "_intro_196_06_"    = "Looking _brand_, enable it and tap 'done'";
 "_intro_196_07_"    = "SHARE";
@@ -123,7 +123,7 @@
 "_intro_200_03_" = "Open _brand_ Control Center";
 "_intro_200_04_" = "Slide your finger down onto the screen to reveal _brand_ Control Center";
 "_intro_200_05_" = "Open _brand_ Control Center";
-"_intro_200_06_" = "Continues up to about half the screen or to the bottom, then release your finger";
+"_intro_200_06_" = "Continue up to about half the screen or to the bottom, then release your finger";
 "_intro_200_07_" = "Open _brand_ Control Center";
 "_intro_200_08_" = "Here you can see if there are ongoing transfers";
 "_intro_200_09_" = "Close _brand_ Control Center";

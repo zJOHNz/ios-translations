@@ -181,7 +181,7 @@
 
 "_security_init_required_hint_" = "Hint for encryption key passcode (Recommended)";
 "_hint_"                        = "Hint";
-"_security_init_required_mail_" = "Enter your email address to send and hold the passcode key encryption (recommended). If you can not or do not want to do that now foul later, in settings you can find the command.";
+"_security_init_required_mail_" = "Enter your email address that the encryption key passcode is send to(recommended). If you can not or do not want to do that now you can configure this later in the settings.";
 "_email_"                       = "Email";
 "_title_form_security_init_"    = "Security options";
 
@@ -191,7 +191,7 @@
 "_local_storage_"               = "Local storage";
 "_no_files_uploaded_"           = "No files uploaded";
 "_tutorial_favorite_view_"      = "Copy here the files that should be available offline. They will be synchronized with your cloud.";
-"_tutorial_local_view_"         = "Copy here the files you want to consult offline, but that will no longer be synchronized with your cloud. \n\n You'll find the unpacked files from your cloud. \n\n Connect to iTunes to share files here.";
+"_tutorial_local_view_"         = "Copy here the files you want to have available offline, but that will no longer be synchronized with your cloud. \n\n You'll find the unpacked files from your cloud. \n\n Connect to iTunes to share these files.";
 "_more_"                        = "More";
 
 // Camera Upload
@@ -355,7 +355,7 @@
 "unknow"                        = "UNKNOWN";
 "video"                         = "VIDEO";
 
-"_Device_Jailbroken_"           = "Warning your device is Jailbroken, the operation of _brand_ does not appear to be entirely compatible !!";
+"_Device_Jailbroken_"           = "Warning! Your device is Jailbroken, the operation of _brand_ does not appear to be entirely compatible !!";
 "_no_plist_pull_down_"          = "Encrypted files not updated, pull down to refresh";
 "_file_del_only_local_"         = "File not present on the server";
 
