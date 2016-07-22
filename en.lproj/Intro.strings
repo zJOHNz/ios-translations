@@ -132,7 +132,7 @@
 // Intro 2.10
 
 "_intro_210_00_" = "Copy / Paste files ";
-"_intro_210_01_" = "Copy file (s)";
-"_intro_210_02_" = "Now you can finally copy any file or files, identify the files to be copied and run a longpress touch; if the files are successfully downloaded a menu is visualized as shown in figure";
-"_intro_210_03_" = "Paste file (s) ";
-"_intro_210_04_" = "Now change folder or even account and run a longpress touch for paste file in clear o in encrypted mode";
+"_intro_210_01_" = "Copy files";
+"_intro_210_02_" = "Now you can finally copy any file or files, identify the files to be copied and perform a long press touch; if the files are successfully downloaded a menu is visualized as shown in figure";
+"_intro_210_03_" = "Paste files ";
+"_intro_210_04_" = "Now change folder or even account and perform a long press touch to paste a file in clear or in encrypted mode";

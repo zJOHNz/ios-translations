@@ -325,8 +325,8 @@
 "_synchronized_folder_"         = "Keep the folder synchronized";
 "_remove_synchronized_folder_"  = "Remove the synchronization";
 "_synchronized_confirm_"        = "After enabling the synchronization, all files in the folder will be synchronized with the server, continue?";
-"_same_device_different_passcode_"  = "The file was encrypted by the same device but with different passcode. Keep in mind that if the old passcode is entered, files encrypted with the new passcode will not be readable.";
-"_file_encrypted_another_device_"   = "The file was encrypted by another device [%@], enter the passcode to read its contents.";
+"_same_device_different_passcode_"  = "The file was encrypted on the same device but with different passcode. Keep in mind that if the old passcode is entered, files encrypted with the new passcode will not be readable.";
+"_file_encrypted_another_device_"   = "The file was encrypted on another device [%@], enter the passcode to decrypt its content.";
 "_file_not_found_reload_"       = "File not found, pull down to refresh";
 "_title_section_download_"      = "DOWNLOAD";
 "_title_section_upload_"        = "UPLOAD";
