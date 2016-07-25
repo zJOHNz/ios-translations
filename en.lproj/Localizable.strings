@@ -141,7 +141,7 @@
 "_upload_camera_save_album_"        = "Copy photo or video in the photo album";
 "_upload_camera_save_album_footer_" = "After the automatic sending of the photo or video, a copy is saved in the photo album : _brand_ (does not require more space in the camera roll)";
 "_upload_camera_fullphotos_"        = "Upload all camera photos/videos";
-"_upload_camera_fullphotos_footer_" = "Select above the options before the start";
+"_upload_camera_fullphotos_footer_" = "Select the options above before uploading";
 
 // Manage Photos
 
